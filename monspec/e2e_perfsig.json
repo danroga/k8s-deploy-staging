@@ -21,7 +21,7 @@
             "aggregation" : "avg",
             "tags" : "service:front-end,environment:staging",
             "upperLimit" : 800.0,
-            "lowerLimit" : 600.0
+            "lowerLimit" : 200.0
         }
     ]
 }
